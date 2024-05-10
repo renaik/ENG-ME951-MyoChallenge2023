@@ -1,0 +1,8 @@
+deprl
+gdown==4.7.3
+gym
+jupyter
+myosuite==1.7.0
+numpy
+scikit-video
+tqdm
